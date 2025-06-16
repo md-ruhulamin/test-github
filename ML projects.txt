@@ -1,0 +1,8 @@
+Titanic Survival Predition:https://colab.research.google.com/drive/1-rNM3wr2zqVJlRBut_ZA4frYZ8Xw58nv?usp=sharing
+House Prediction: https://colab.research.google.com/drive/1UcmL30DASX4115K4mIWo310ZZR_GdkSR?usp=sharing
+T shirt Size Prediction Using KNN:https://colab.research.google.com/drive/1JSD0qskOb5kktjQC-4KK1sOI4D8NI93r?usp=sharing
+K means CLustering : https://colab.research.google.com/drive/1T_vlLCe2_N_8aszAkrg85odcaq4f8-PS?usp=sharing
+Emoji for analysis:https://colab.research.google.com/drive/1sPqyzw6Z_vXfXHIADi63B0uweAClIwyY#scrollTo=uFobs4cBIrd3
+Hand written =https://colab.research.google.com/drive/1EXJD7TQLXu_eMOgMnAFxpLOXuFeW-QC1?usp=sharing
+Iris flower =https://colab.research.google.com/drive/1xrXpxALA9GyNwjDQHQFCpNHmsKOvGqwC?usp=sharing
+CANCER Prediction: https://colab.research.google.com/drive/1Eh7O-TAlwBaECOrhMDcFyKIkYHZUAnsx?usp=sharing
